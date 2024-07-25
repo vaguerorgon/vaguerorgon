@@ -2,7 +2,7 @@
 -  My Name is Giovanni, Gio for short
 -  I’m currently learning Game Design(never stops)
 -  I’m looking to collaborate on video games as a designer
--  How to reach me giovannigo931@gmail.com
+-  How to reach me 
 -  Pronouns: He/Him
 
      <br>
