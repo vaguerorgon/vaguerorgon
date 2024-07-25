@@ -6,9 +6,13 @@
 -  Pronouns: He/Him
 
      <br>
+![image](https://github.com/user-attachments/assets/dc3475d3-aadc-4a63-8d1c-0647d366481f)
 
 -  finished projects:
-https://aieseattle.itch.io/squid
+- https://aieseattle.itch.io/squid
+- https://aieseattle.itch.io/fry-ght-night
+- https://noahknightley.itch.io/dead-rage
+- https://quota16.itch.io/nothing-can-be-done
 <!---
 vaguerorgon/vaguerorgon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
