@@ -7,7 +7,9 @@
 
      <br>
 ![image](https://github.com/user-attachments/assets/dc3475d3-aadc-4a63-8d1c-0647d366481f)
-
+<img scr="https://github.com/user-attachments/assets/dc3475d3-aadc-4a63-8d1c-0647d366481f
+width="200"
+height="200" />
 -  finished projects:
 - https://aieseattle.itch.io/squid
 - https://aieseattle.itch.io/fry-ght-night
