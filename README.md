@@ -2,11 +2,11 @@
 -  My Name is Giovanni, Gio for short
 -  I’m currently learning Game Design(never stops)
 -  I’m looking to collaborate on video games as a designer
--  How to reach me 
+-  How to contact me: https://www.linkedin.com/in/giovanni-gomez-0b812924a/
 -  Pronouns: He/Him
 
      <br>
-![image](https://github.com/user-attachments/assets/dc3475d3-aadc-4a63-8d1c-0647d366481f)
+
 -<img scr="![image](https://github.com/user-attachments/assets/dc3475d3-aadc-4a63-8d1c-0647d366481f)"
 width="200"
 height="200" />
