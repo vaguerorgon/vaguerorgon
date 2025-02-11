@@ -9,7 +9,8 @@
      <br>
 ![0C+4eS](https://github.com/user-attachments/assets/29412744-1307-4aae-9fec-91678fef48b6)
 
-![_PgS0l](https://github.com/user-attachments/assets/5f6e45f9-833b-48c7-9a96-595ad15461bb)
+![Hxhnu7](https://github.com/user-attachments/assets/c1373527-4609-4e87-9e2d-2ef475de1bc6)
+
 
 -  finished projects:
 - https://aieseattle.itch.io/squid
