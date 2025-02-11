@@ -2,11 +2,14 @@
 -  My Name is Giovanni, Gio for short
 -  I’m currently learning Game Design(never stops)
 -  I’m looking to collaborate on video games as a designer
+-  Would like to dabble in Mechanical design as well
 -  How to contact me: https://www.linkedin.com/in/giovanni-gomez-0b812924a/
 -  Pronouns: He/Him
 
      <br>
+![0C+4eS](https://github.com/user-attachments/assets/29412744-1307-4aae-9fec-91678fef48b6)
 
+![_PgS0l](https://github.com/user-attachments/assets/5f6e45f9-833b-48c7-9a96-595ad15461bb)
 
 -  finished projects:
 - https://aieseattle.itch.io/squid
